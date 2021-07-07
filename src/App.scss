@@ -1,0 +1,36 @@
+.app {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  margin-top: 2rem;
+
+  .title {
+    text-align: center;
+    font-size: 1.2rem;
+  }
+}
+
+.content {
+  margin-top: .5rem;
+}
+
+.exchangeAmountWrapper {
+  display: flex;
+}
+
+.exchangeAmountInput {
+  width: 25%;
+}
+
+.select {
+  padding: .25rem;
+}
+
+.writeBtn {
+  display: block;
+  margin: 1rem auto 0;
+}
