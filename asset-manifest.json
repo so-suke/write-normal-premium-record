@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/write-normal-premium-record/static/css/main.4e183387.chunk.css",
+    "main.js": "/write-normal-premium-record/static/js/main.fd8c3945.chunk.js",
+    "main.js.map": "/write-normal-premium-record/static/js/main.fd8c3945.chunk.js.map",
+    "runtime-main.js": "/write-normal-premium-record/static/js/runtime-main.195a38bf.js",
+    "runtime-main.js.map": "/write-normal-premium-record/static/js/runtime-main.195a38bf.js.map",
+    "static/js/2.28cbd8ae.chunk.js": "/write-normal-premium-record/static/js/2.28cbd8ae.chunk.js",
+    "static/js/2.28cbd8ae.chunk.js.map": "/write-normal-premium-record/static/js/2.28cbd8ae.chunk.js.map",
+    "static/js/3.d5ef0ed6.chunk.js": "/write-normal-premium-record/static/js/3.d5ef0ed6.chunk.js",
+    "static/js/3.d5ef0ed6.chunk.js.map": "/write-normal-premium-record/static/js/3.d5ef0ed6.chunk.js.map",
+    "index.html": "/write-normal-premium-record/index.html",
+    "static/css/main.4e183387.chunk.css.map": "/write-normal-premium-record/static/css/main.4e183387.chunk.css.map",
+    "static/js/2.28cbd8ae.chunk.js.LICENSE.txt": "/write-normal-premium-record/static/js/2.28cbd8ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195a38bf.js",
+    "static/js/2.28cbd8ae.chunk.js",
+    "static/css/main.4e183387.chunk.css",
+    "static/js/main.fd8c3945.chunk.js"
+  ]
+}
